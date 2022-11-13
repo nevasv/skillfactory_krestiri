@@ -83,3 +83,4 @@ def play_game():
 
 
 play_game()
+input("Конец программы")
